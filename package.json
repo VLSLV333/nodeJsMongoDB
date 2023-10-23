@@ -1,0 +1,14 @@
+{
+  "name": "nodejsmongodb",
+  "version": "1.0.0",
+  "description": "Learning nodeJs and MongoDb",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Vladyslav",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
